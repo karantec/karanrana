@@ -2,12 +2,13 @@
 # DSFolio V1
 
 <center>
-    <img src="/public/cover.png" alt="DSFolio" />
+   ![image](https://github.com/user-attachments/assets/efcb5b8a-a811-40c9-a63d-32019b82142a)
+
 </center>
 
 <center>
 
-https://dsfolio-v1.vercel.app/
+[https://dsfolio-v1.vercel.app/](https://karanrana.vercel.app/)
 
 </center>
 
