@@ -2,7 +2,8 @@
 # DSFolio V1
 
 <center>
-    <img src="/public/cover.png" alt="DSFolio" />
+    ![image](https://github.com/user-attachments/assets/9ca3bcb1-e186-4c85-9e20-75cee246f95d)
+
 </center>
 
 <center>
