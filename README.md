@@ -2,7 +2,7 @@
 # DSFolio V1
 
 <center>
-    ![image](https://github.com/user-attachments/assets/9ca3bcb1-e186-4c85-9e20-75cee246f95d)
+   ![image](https://github.com/user-attachments/assets/efcb5b8a-a811-40c9-a63d-32019b82142a)
 
 </center>
 
