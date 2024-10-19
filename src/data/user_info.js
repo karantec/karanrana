@@ -16,104 +16,105 @@ const info = {
     },
 
     // ============ PROJECTS ============
-    projects: [
-        {
-			title: "Desiqna Full Stack Website",
-			description: "Built an edtech website with dynamic API integration to display up-to-date courses and resources, ensuring seamless user experience. Focused on intuitive, responsive design for enhanced engagement and accessibility. ",
-            technologies: "React, Node, Express, MongoDB,Tailwind CSS, AWS,",
-			github: "https://github.com/karantec/DesiQna",
-            link: "https://training.desiqna.in/"
-		},
+   projects: [
+    {
+        title: "Desiqna Full Stack Website",
+        description: "Built an edtech website with dynamic API integration to display up-to-date courses and resources, ensuring seamless user experience. Focused on intuitive, responsive design for enhanced engagement and accessibility.",
+        technologies: "React, Node, Express, MongoDB, Tailwind CSS, AWS",
+        github: "https://github.com/karantec/DesiQna",
+        link: "https://training.desiqna.in/",
+        image: "training.png" // Replace with actual image URL
+    },
+    {
+        title: "LetsRemote-Full Stack Website",
+        description: "Developed a web app providing real-time remote job updates with secure Firebase authentication for user login and job applications. Built an admin dashboard for instant job posting and seamless user interaction.",
+        technologies: "ReactJs, Tailwind CSS, Node Js, Express JS, Mongo DB, Clerk",
+        github: "https://github.com/karantec/RemoteSAAS",
+        link: "https://letsremotejob.com/",
+        image: "remote.png" // Replace with actual image URL
+    },
+    {
+        title: "Movies For All",
+        description: "Draw & Classify is a web application designed to test my machine learning model, which classifies drawn letters, digits, or shapes.",
+        technologies: "ReactJS, Redux toolkit, HTML, SCSS, TMDBAPI",
+        github: "https://github.com/karantec/MoviesForAll",
+        link: "https://movies-for-all-six.vercel.app/",
+        image: "movies.png" // Replace with actual image URL
+    },
+    {
+        title: "Tomato",
+        description: "Developed a user-friendly food ordering app with real-time order tracking, cart management, and secure Stripe payments. Integrated JWT authentication and built an admin panel for managing menu, orders, and backend operations.",
+        technologies: "ReactJS, React Context API, React Router, Redux, NodeJS, ExpressJS, MongoDB, Strapi",
+        github: "https://github.com/karantec/TomatoForAll",
+        link: "https://tomato-for-all.vercel.app/",
+        image: "tomato.png" // Replace with actual image URL
+    },
+    {
+        title: "Sanjay Catering",
+        description: "Sanjay Catering is a catering booking web application that helps business owners to contact for booking and other events.",
+        technologies: "React, Tailwind, JavaScript",
+        github: "https://github.com/karantec/sanjaycatering.git",
+        link: "https://sanjaycatering.com/",
+        image: "catering.png" // Replace with actual image URL
+    },
+    {
+        title: "CryptoDashboard",
+        description: "Crypto Dashboard is a web application that provides real-time data on cryptocurrency prices, trends, and market performance. It features an intuitive interface for tracking multiple cryptocurrencies, viewing detailed charts, and analyzing market movements.",
+        technologies: "React, Tailwind, API Integration",
+        github: "https://github.com/karantec/CrptoDashboard",
+        link: "https://crpto-dashboard.vercel.app/",
+        image: "crpto.png" // Replace with actual image URL
+    },
+    {
+        title: "Stellar Dashboard",
+        description: "This project involves building a React.js dashboard based on a Figma design, offering two design options: Metrics or Transformation Plan. The dashboard will feature interactive components and visualizations. Data can be sourced flexibly from Google Sheets, JSON, CSV, or other formats.",
+        technologies: "React, Tailwind, JavaScript",
+        github: "https://github.com/karantec/StellarAssignment.git",
+        link: "https://stellar-assignment.vercel.app/",
+        image: "stellar.png" // Replace with actual image URL
+    },
+    {
+        title: "Trade Trails",
+        description: "Welcome to Trade Trails, your go-to platform for premium agricultural products delivered straight to your doorstep. We prioritize a seamless and enjoyable shopping experience, ensuring you have easy access to high-quality goods.",
+        technologies: "React, Tailwind, API Integration",
+        github: "https://github.com/karantec/TradeTrails.git",
+        link: "https://tradetrails.in/",
+        image: "trade.png" // Replace with actual image URL
+    },
+    {
+        title: "Sorting Visualizer",
+        description: "The Sorting Visualizer is an interactive tool that animates various sorting algorithms, helping users understand their mechanics in real time. Users can adjust parameters like array size and sorting speed for an engaging learning experience.",
+        technologies: "React, Tailwind, JavaScript",
+        github: "https://github.com/karantec/SortingVisualizer.git",
+        link: "https://sorting-visualizer-psi-wheat.vercel.app/",
+        image: "sorting.png" // Replace with actual image URL
+    },
+    {
+        title: "Kabaan Board",
+        description: "The Kabaan board is a vibrant, strategic game board featuring a square layout where players navigate paths with colorful tokens, aiming to reach their home squares. It combines luck and strategy, promoting interaction and friendly competition during family gatherings and celebrations.",
+        technologies: "React, Tailwind, Zustand, State Management",
+        github: "https://github.com/karantec/CerfixAssignment.git",
+        link: "https://cerfix-assignment-s9lp.vercel.app/",
+        image: "kabaan.png" // Replace with actual image URL
+    },
+    {
+        title: "Meme Generator",
+        description: "This is a meme generator app where users can see the meme images, select and edit the memes, write the context of the meme, and export it as a PNG in their local system.",
+        technologies: "React, Tailwind, API Integration",
+        github: "https://github.com/karantec/MemeGenerator.git",
+        link: "https://meme-generate-beryl.vercel.app/",
+        image: "meme.png" // Replace with actual image URL
+    },
+    {
+        title: "3D T-shirt Designing App",
+        description: "Create your unique and exclusive shirt with our brand-new 3D customization tool. Unleash your imagination and define your own style.",
+        technologies: "react-three/drei, @react-three/fiber, framer-motion, maath, react, react-color, react-dom, three, valtio",
+        github: "https://github.com/karantec/TshirtDesignApp.git",
+        link: "https://tshirtdesign.vercel.app/", // Replace with actual link
+        image: "tshirt.png" // Replace with actual image URL
+    }
+],
 
-        {
-			title: "LetsRemote-Full Stack Website",
-			description: "Developed a web app providing real-time remote job updates with secure Firebase authentication for user login and job applications. Built an admin dashboard for instant job posting and seamless user interaction..",
-			technologies: " ReactJs,  Tailwind CSS, Node Js, Express JS, Mongo DB, Clerk ",
-			github: "https://github.com/karantec/RemoteSAAS",
-            link: "https://letsremotejob.com/"
-		},
-
-        {
-			title: "Movies For All",
-			description: "Draw & Classify is a web application designed to test my machine learning model, which classifies drawn letters, digits, or shapes.",
-			technologies: "• ReactJS ,Redux toolkit , HTML , SCSS,TMDBAPI",
-			github: "https://github.com/karantec/MoviesForAll",
-            link: "https://movies-for-all-six.vercel.app/"
-		},
-
-		{
-			title: "Tomato",
-			description: "Developed a user-friendly food ordering app with real-time order tracking, cart management, and secure Stripe payments. Integrated JWT authentication and built an admin panel for managing menu, orders, and backend operations..",
-			technologies: "ReactJS, React Context API, React Router, Redux, NodeJS, ExpressJS, MongoDB, Strapi",
-			github: "https://github.com/karantec/TomatoForAll",
-            link: "https://tomato-for-all.vercel.app/"
-		},
-
-		{
-			title: "Sanjay Catering",
-			description: "Sanjay Catering  is a catering booking  web application that helps business owners to contact for booking and  other  events.",
-			technologies: "React, Tailwind, Javascript",
-			github: "https://github.com/karantec/sanjaycatering.git",
-            link: "https://sanjaycatering.com/"
-		},
-
-		{
-			title: "CryptoDashboard",
-			description: "Crypto Dashboard is a web application that provides real-time data on cryptocurrency prices, trends, and market performance. It features an intuitive interface for tracking multiple cryptocurrencies, viewing detailed charts, and analyzing market movements.",
-			technologies: "React, Tailwind,Api Integration",
-			github: "https://github.com/karantec/CrptoDashboard",
-            link: "https://probability-pick.netlify.app/"
-		},
-
-        {
-			title: "Stellar Dashboard",
-			description: "This project involves building a React.js dashboard based on a Figma design, offering two design options: Metrics or Transformation Plan. The dashboard will feature interactive components and visualizations. Data can be sourced flexibly from Google Sheets, JSON, CSV, or other formats.",
-			technologies: "React, Tailwind, Javascript",
-			github: "https://github.com/karantec/StellarAssignment.git",
-            link: "https://stellar-assignment.vercel.app/"
-		},
-
-		{
-			title: "Trade Trails",
-			description: "Welcome to Trade Trails, your go-to platform for premium agricultural products delivered straight to your doorstep. We prioritize a seamless and enjoyable shopping experience, ensuring you have easy access to high-quality goods.",
-			technologies: "React, Tailwind,Api Integration",
-			github: "https://github.com/karantec/TradeTrails.git",
-            link: "https://tradetrails.in/"
-		},
-        {
-			title: "Sorting Visualizer",
-			description: "The Sorting Visualizer is an interactive tool that animates various sorting algorithms, helping users understand their mechanics in real time. Users can adjust parameters like array size and sorting speed for an engaging learning experience..",
-			technologies: "React, Tailwind, Javascript",
-			github: "https://github.com/karantec/SortingVisualizer.git",
-            link: "https://sorting-visualizer-psi-wheat.vercel.app/"
-		},
-
-		{
-			title: "Kabaan Board",
-			description: "The Kabaan board is a vibrant, strategic game board featuring a square layout where players navigate paths with colorful tokens, aiming to reach their home squares. It combines luck and strategy, promoting interaction and friendly competition during family gatherings and celebrations.",
-			technologies: "React, Tailwind,Zustand,State Management",
-			github: "https://github.com/karantec/CerfixAssignment.git",
-            link: "https://cerfix-assignment-s9lp.vercel.app/"
-		},
-        {
-			title: "Meme Generator",
-			description: "This is a meme generator app where users can see the meme images select and edit the memes write the context of the meme and export it as a PNG in your local system..",
-			technologies: "React, Tailwind,Api Integration",
-			github: "https://github.com/karantec/MemeGenerator.git",
-            link: "https://meme-generate-beryl.vercel.app/"
-		},
-        {
-			title: "3D Tshirt Designing App",
-			description: "Create your unique and exclusive shirt with our brand-new 3D customization tool. Unleash your imagination and define your own style",
-			technologies: "react-three/drei, @react-three/fiber, framer-motion, maath, react, react-color, react-dom, three, valtio",
-			github: "https://github.com/karantec/MemeGenerator.git",
-            link: "https://meme-generate-beryl.vercel.app/"
-		},
-        
-
-
-        
-    ],
 
     // ============ EDUCATION ============
     education: [
