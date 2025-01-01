@@ -112,7 +112,75 @@ const info = {
         github: "https://github.com/karantec/TshirtDesignApp.git",
         link: "https://tshirtdesign.vercel.app/", // Replace with actual link
         image: "tshirt.png" // Replace with actual image URL
-    }
+    },
+    {
+        title: "3D T-shirt Designing App",
+        description: "Create your unique and exclusive shirt with our brand-new 3D customization tool. Unleash your imagination and define your own style.",
+        technologies: "react-three/drei, @react-three/fiber, framer-motion, maath, react, react-color, react-dom, three, valtio",
+        github: "https://github.com/karantec/TshirtDesignApp.git",
+        link: "https://tshirtdesign.vercel.app/", // Replace with actual link
+        image: "tshirt.png" // Replace with actual image URL
+    },
+    {
+        title: "Event Planner Website",
+        description: "YOUR TRUSTED PARTNER FOR EVENT PLANNING IN Jharkhand & Bihar.",
+        technologies: "HTMl,CSS,Javascript",
+        github: "https://github.com/karantec/WebsiteEvent.git",
+        link: "https://ddplanner.in/", // Replace with actual link
+        image: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/Screenshot+(37).png" // Replace with actual image URL
+    },
+    {
+        title: "Interior Designer Software",
+        description: "Interior Designer Software is a powerful tool tailored for professionals and enthusiasts in the field of interior design. It combines cutting-edge technology with user-friendly interfaces to help users conceptualize, plan, and visualize interior spaces with precision and creativity..",
+        technologies: "MERN, AWS",
+        github: "hhttps://github.com/karantec/Associate.git",
+        link: "https://www.mga2002.in", // Replace with actual link
+        image: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/Screenshot+(38).png" // Replace with actual image URL
+    },
+    {
+        title: "Interior Designer Software",
+        description: "Interior Designer Software is a powerful tool tailored for professionals and enthusiasts in the field of interior design. It combines cutting-edge technology with user-friendly interfaces to help users conceptualize, plan, and visualize interior spaces with precision and creativity..",
+        technologies: "MERN, AWS",
+        github: "hhttps://github.com/karantec/Associate.git",
+        link: "https://www.mga2002.in", // Replace with actual link
+        image: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/Screenshot+(38).png" // Replace with actual image URL
+    },
+    {
+        title: "Chefkart",
+        description: "Most Trusted Platform for At-Home Cooking Services.",
+        technologies: "MERN, AWS",
+        github: "https://github.com/karantec/ChefkarFrontend1.git",
+        link: "https://chefkar-frontend1.vercel.app/", // Replace with actual link
+        image: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/Screenshot+(39).png" // Replace with actual image URL
+    },
+    {
+        title: "Staylon-Beauty-Parlour",
+        description: "A beauty parlour, also known as a salon or spa, is a business that offers a range of beauty and wellness services. It is a place where individuals can enhance their appearance, relax, and indulge in treatments for skin, hair, nails, and well-being",
+        technologies: "HTMl,CSS,Javascript",
+        github: "https://github.com/karantec/BeautyParlouSite.git",
+        link: "https://staylonbeauty.in/", // Replace with actual link
+        image: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/Screenshot+(40).png" // Replace with actual image URL
+    },
+    {
+        title: "Staylon-Beauty-Parlour",
+        description: "Curated collection of premium-grade digital assets and solutions",
+        technologies: "MERN,AWS ,S3",
+        github: "https://github.com/karantec/devmarket1.git",
+        link: "https://devmarket1.vercel.app/", // Replace with actual link
+        image: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/Screenshot+(41).png" // Replace with actual image URL
+    },
+    {
+        title: "Gold Jewellery Website",
+        description: "UNIQUE AND AUTHENTIC VINTAGE DESIGNER JEWELLERY",
+        technologies: "MERN,AWS ,S3",
+        github: "https://github.com/karantec/Ecommerce.git",
+        link: "https://ecommerce-flax-chi.vercel.app/", // Replace with actual link
+        image: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/Screenshot+(42).png" // Replace with actual image URL
+    },
+
+
+
+
 ],
 
 
