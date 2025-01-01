@@ -4,7 +4,7 @@ const info = {
         name: "KARAN RANA",
         description: "I am a software engineer with expertise in full-stack web development. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards.",
         role: "Full-Stack Developer",
-        photo: "https://media.licdn.com/dms/image/v2/D4D03AQHWjCqgqsgjvw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728484083987?e=1734566400&v=beta&t=86ESKC2FJL9SPTHC0ddXZYzmQzCaxwCys4lRku_b1ao",
+        photo: "https://portfoliokaran.s3.eu-north-1.amazonaws.com/IMG_20241203_101951539-removebg-preview.png",
         email: "karanrana3095@gmail.com",
     },
 
